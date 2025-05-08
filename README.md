@@ -1,0 +1,2 @@
+# NASA APOD Viewer
+This project is a simple web application that uses NASA's Astronomy Picture of the Day (APOD) API. Users can select a specific date or load a random picture, and the app will display the image along with its title, description, and a download button. It's built with plain HTML, CSS, and JavaScript, and it uses the Fetch API to request data from NASA. The project is designed to be clean, responsive, and easy to use. It’s hosted live using GitHub Pages.
